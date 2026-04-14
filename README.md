@@ -1,12 +1,17 @@
 # ABAP-Fiori
-Aplicación Fiori: Gestión de Reservas de vuelos con modelo RAP
 
-📝 Descripción
-Este repositorio contiene el desarrollo completo de una aplicación Fiori Elements construida sobre SAP BTP. El proyecto implementa el modelo RAP (ABAP RESTful Application Programming Model), demostrando un flujo de desarrollo moderno end-to-end en la nube.
+Aplicación Fiori: Gestión de Reservas de vuelos con modelo RAP
 
 ![Gestión de reservas de vuelos](https://github.com/user-attachments/assets/8e68ef3b-367e-4ea9-afef-9f0e03e093bf)
 
+📝 Descripción
+
+Este repositorio contiene el desarrollo completo de una aplicación Fiori Elements construida sobre SAP BTP. El proyecto implementa el modelo RAP (ABAP RESTful Application Programming Model), demostrando un flujo de desarrollo moderno end-to-end en la nube.
+
+Este proyecto ha sido desarrollado como parte del programa de formación oficial de SAP Learning, específicamente dentro del curso: 'Getting Started with Creating an SAP Fiori Elements App Based on an OData V4 RAP Service'. El objetivo fue aplicar de forma práctica los principios del modelo RAP y la extensibilidad de Fiori Elements.
+
 🛠️ Tecnologías y Conceptos Utilizados
+
 ABAP Cloud: Desarrollo optimizado para entornos de nube.
 
 CDS Views: Modelado de datos avanzado mediante vistas de interface y proyección.
@@ -18,6 +23,7 @@ Fiori Elements: Interfaz de usuario generada a partir de anotaciones de metadato
 RAP Framework: Implementación de lógica de negocio (Behavior Definitions).
 
 📂 Estructura del Repositorio
+
 El código se encuentra organizado en la carpeta /src, siguiendo el estándar de abapGit:
 
 Database Tables: Definición de estructuras de datos persistentes (.tabl.xml).
